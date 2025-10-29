@@ -1,0 +1,24 @@
+{
+  "name": "jest-preset-angular-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdrozdsap/jest-preset-angular-bug-report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sdrozdsap/jest-preset-angular-bug-report/issues"
+  },
+  "homepage": "https://github.com/sdrozdsap/jest-preset-angular-bug-report#readme",
+  "dependencies": {
+    "@angular-devkit/build-angular": "^20.3.7"
+  }
+}
